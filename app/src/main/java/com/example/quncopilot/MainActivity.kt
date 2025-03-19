@@ -30,7 +30,7 @@ class MainActivity : ComponentActivity() {
                         verticalArrangement = Arrangement.Center,
                         horizontalAlignment = Alignment.CenterHorizontally
                     ) {
-                        Greeting(name = "rolldicegamesq")
+                        Greeting(name = "rolldicegamesqq")
                         Spacer(modifier = Modifier.height(16.dp))
                         DiceRoller()
                     }
