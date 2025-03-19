@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             QuncopilotTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Androsqqqqqqqqid",
+                        name = "Androsqqq2qqqqqid",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
